@@ -1,0 +1,850 @@
+{
+  "Hiragana": [
+    {
+      "Romanized": "a",
+      "Kana": "\u3042"
+    },
+    {
+      "Romanized": "i",
+      "Kana": "\u3044"
+    },
+    {
+      "Romanized": "u",
+      "Kana": "\u3046"
+    },
+    {
+      "Romanized": "e",
+      "Kana": "\u3048"
+    },
+    {
+      "Romanized": "o",
+      "Kana": "\u304a"
+    },
+    {
+      "Romanized": "ka",
+      "Kana": "\u304b"
+    },
+    {
+      "Romanized": "ki",
+      "Kana": "\u304d"
+    },
+    {
+      "Romanized": "ku",
+      "Kana": "\u304f"
+    },
+    {
+      "Romanized": "ke",
+      "Kana": "\u3051"
+    },
+    {
+      "Romanized": "ko",
+      "Kana": "\u3053"
+    },
+    {
+      "Romanized": "sa",
+      "Kana": "\u3055"
+    },
+    {
+      "Romanized": "shi",
+      "Kana": "\u3057"
+    },
+    {
+      "Romanized": "su",
+      "Kana": "\u3059"
+    },
+    {
+      "Romanized": "se",
+      "Kana": "\u305b"
+    },
+    {
+      "Romanized": "so",
+      "Kana": "\u305d"
+    },
+    {
+      "Romanized": "ta",
+      "Kana": "\u305f"
+    },
+    {
+      "Romanized": "chi",
+      "Kana": "\u3061"
+    },
+    {
+      "Romanized": "tsu",
+      "Kana": "\u3064"
+    },
+    {
+      "Romanized": "te",
+      "Kana": "\u3066"
+    },
+    {
+      "Romanized": "to",
+      "Kana": "\u3068"
+    },
+    {
+      "Romanized": "na",
+      "Kana": "\u306a"
+    },
+    {
+      "Romanized": "ni",
+      "Kana": "\u306b"
+    },
+    {
+      "Romanized": "nu",
+      "Kana": "\u306c"
+    },
+    {
+      "Romanized": "ne",
+      "Kana": "\u306d"
+    },
+    {
+      "Romanized": "no",
+      "Kana": "\u306e"
+    },
+    {
+      "Romanized": "ha",
+      "Kana": "\u306f"
+    },
+    {
+      "Romanized": "hi",
+      "Kana": "\u3072"
+    },
+    {
+      "Romanized": "fu",
+      "Kana": "\u3075"
+    },
+    {
+      "Romanized": "he",
+      "Kana": "\u3078"
+    },
+    {
+      "Romanized": "ho",
+      "Kana": "\u307b"
+    },
+    {
+      "Romanized": "ma",
+      "Kana": "\u307e"
+    },
+    {
+      "Romanized": "mi",
+      "Kana": "\u307f"
+    },
+    {
+      "Romanized": "mu",
+      "Kana": "\u3080"
+    },
+    {
+      "Romanized": "me",
+      "Kana": "\u3081"
+    },
+    {
+      "Romanized": "mo",
+      "Kana": "\u3082"
+    },
+    {
+      "Romanized": "ya",
+      "Kana": "\u3084"
+    },
+    {
+      "Romanized": "yu",
+      "Kana": "\u3086"
+    },
+    {
+      "Romanized": "yo",
+      "Kana": "\u3088"
+    },
+    {
+      "Romanized": "ra",
+      "Kana": "\u3089"
+    },
+    {
+      "Romanized": "ri",
+      "Kana": "\u308a"
+    },
+    {
+      "Romanized": "ru",
+      "Kana": "\u308b"
+    },
+    {
+      "Romanized": "re",
+      "Kana": "\u308c"
+    },
+    {
+      "Romanized": "ro",
+      "Kana": "\u308d"
+    },
+    {
+      "Romanized": "wa",
+      "Kana": "\u308f"
+    },
+    {
+      "Romanized": "o/wo",
+      "Kana": "\u3092"
+    },
+    {
+      "Romanized": "n",
+      "Kana": "\u3093"
+    },
+    {
+      "Romanized": "ga",
+      "Kana": "\u304c"
+    },
+    {
+      "Romanized": "gi",
+      "Kana": "\u304e"
+    },
+    {
+      "Romanized": "gu",
+      "Kana": "\u3050"
+    },
+    {
+      "Romanized": "ge",
+      "Kana": "\u3052"
+    },
+    {
+      "Romanized": "go",
+      "Kana": "\u3054"
+    },
+    {
+      "Romanized": "za",
+      "Kana": "\u3056"
+    },
+    {
+      "Romanized": "ji",
+      "Kana": "\u3058"
+    },
+    {
+      "Romanized": "zu",
+      "Kana": "\u305a"
+    },
+    {
+      "Romanized": "ze",
+      "Kana": "\u305c"
+    },
+    {
+      "Romanized": "zo",
+      "Kana": "\u305e"
+    },
+    {
+      "Romanized": "da",
+      "Kana": "\u3060"
+    },
+    {
+      "Romanized": "de",
+      "Kana": "\u3067"
+    },
+    {
+      "Romanized": "do",
+      "Kana": "\u3069"
+    },
+    {
+      "Romanized": "ba",
+      "Kana": "\u3070"
+    },
+    {
+      "Romanized": "bi",
+      "Kana": "\u3073"
+    },
+    {
+      "Romanized": "bu",
+      "Kana": "\u3076"
+    },
+    {
+      "Romanized": "be",
+      "Kana": "\u3079"
+    },
+    {
+      "Romanized": "bo",
+      "Kana": "\u307c"
+    },
+    {
+      "Romanized": "pa",
+      "Kana": "\u3071"
+    },
+    {
+      "Romanized": "pi",
+      "Kana": "\u3074"
+    },
+    {
+      "Romanized": "pu",
+      "Kana": "\u3077"
+    },
+    {
+      "Romanized": "pe",
+      "Kana": "\u307a"
+    },
+    {
+      "Romanized": "po",
+      "Kana": "\u307d"
+    },
+    {
+      "Romanized": "kya",
+      "Kana": "\u304d\u3083"
+    },
+    {
+      "Romanized": "kyu",
+      "Kana": "\u304d\u3085"
+    },
+    {
+      "Romanized": "kyo",
+      "Kana": "\u304d\u3087"
+    },
+    {
+      "Romanized": "sha",
+      "Kana": "\u3057\u3083"
+    },
+    {
+      "Romanized": "shu",
+      "Kana": "\u3057\u3085"
+    },
+    {
+      "Romanized": "sho",
+      "Kana": "\u3057\u3087"
+    },
+    {
+      "Romanized": "cha",
+      "Kana": "\u3061\u3083"
+    },
+    {
+      "Romanized": "chu",
+      "Kana": "\u3061\u3085"
+    },
+    {
+      "Romanized": "cho",
+      "Kana": "\u3061\u3087"
+    },
+    {
+      "Romanized": "nya",
+      "Kana": "\u306b\u3083"
+    },
+    {
+      "Romanized": "nyu",
+      "Kana": "\u306b\u3085"
+    },
+    {
+      "Romanized": "nyo",
+      "Kana": "\u306b\u3087"
+    },
+    {
+      "Romanized": "hya",
+      "Kana": "\u3072\u3083"
+    },
+    {
+      "Romanized": "hyu",
+      "Kana": "\u3072\u3085"
+    },
+    {
+      "Romanized": "hyo",
+      "Kana": "\u3072\u3087"
+    },
+    {
+      "Romanized": "mya",
+      "Kana": "\u307f\u3083"
+    },
+    {
+      "Romanized": "myu",
+      "Kana": "\u307f\u3085"
+    },
+    {
+      "Romanized": "myo",
+      "Kana": "\u307f\u3087"
+    },
+    {
+      "Romanized": "rya",
+      "Kana": "\u308a\u3083"
+    },
+    {
+      "Romanized": "ryu",
+      "Kana": "\u308a\u3085"
+    },
+    {
+      "Romanized": "ryo",
+      "Kana": "\u308a\u3087"
+    },
+    {
+      "Romanized": "gya",
+      "Kana": "\u304e\u3083"
+    },
+    {
+      "Romanized": "gyu",
+      "Kana": "\u304e\u3085"
+    },
+    {
+      "Romanized": "gyo",
+      "Kana": "\u304e\u3087"
+    },
+    {
+      "Romanized": "ja",
+      "Kana": "\u3058\u3083"
+    },
+    {
+      "Romanized": "ju",
+      "Kana": "\u3058\u3085"
+    },
+    {
+      "Romanized": "jo",
+      "Kana": "\u3058\u3087"
+    },
+    {
+      "Romanized": "bya",
+      "Kana": "\u3073\u3083"
+    },
+    {
+      "Romanized": "byu",
+      "Kana": "\u3073\u3085"
+    },
+    {
+      "Romanized": "byo",
+      "Kana": "\u3073\u3087"
+    },
+    {
+      "Romanized": "pya",
+      "Kana": "\u3074\u3083"
+    },
+    {
+      "Romanized": "pyu",
+      "Kana": "\u3074\u3085"
+    },
+    {
+      "Romanized": "pyo",
+      "Kana": "\u3074\u3087"
+    }
+  ],
+  "Katakana": [
+    {
+      "Romanized": "a",
+      "Kana": "\u30a2"
+    },
+    {
+      "Romanized": "i",
+      "Kana": "\u30a4"
+    },
+    {
+      "Romanized": "u",
+      "Kana": "\u30a6"
+    },
+    {
+      "Romanized": "e",
+      "Kana": "\u30a8"
+    },
+    {
+      "Romanized": "o",
+      "Kana": "\u30aa"
+    },
+    {
+      "Romanized": "ka",
+      "Kana": "\u30ab"
+    },
+    {
+      "Romanized": "ki",
+      "Kana": "\u30ad"
+    },
+    {
+      "Romanized": "ku",
+      "Kana": "\u30af"
+    },
+    {
+      "Romanized": "ke",
+      "Kana": "\u30b1"
+    },
+    {
+      "Romanized": "ko",
+      "Kana": "\u30b3"
+    },
+    {
+      "Romanized": "sa",
+      "Kana": "\u30b5"
+    },
+    {
+      "Romanized": "shi",
+      "Kana": "\u30b7"
+    },
+    {
+      "Romanized": "su",
+      "Kana": "\u30b9"
+    },
+    {
+      "Romanized": "se",
+      "Kana": "\u30bb"
+    },
+    {
+      "Romanized": "so",
+      "Kana": "\u30bd"
+    },
+    {
+      "Romanized": "ta",
+      "Kana": "\u30bf"
+    },
+    {
+      "Romanized": "chi",
+      "Kana": "\u30c1"
+    },
+    {
+      "Romanized": "tsu",
+      "Kana": "\u30c4"
+    },
+    {
+      "Romanized": "te",
+      "Kana": "\u30c6"
+    },
+    {
+      "Romanized": "to",
+      "Kana": "\u30c8"
+    },
+    {
+      "Romanized": "na",
+      "Kana": "\u30ca"
+    },
+    {
+      "Romanized": "ni",
+      "Kana": "\u30cb"
+    },
+    {
+      "Romanized": "nu",
+      "Kana": "\u30cc"
+    },
+    {
+      "Romanized": "ne",
+      "Kana": "\u30cd"
+    },
+    {
+      "Romanized": "no",
+      "Kana": "\u30ce"
+    },
+    {
+      "Romanized": "ha",
+      "Kana": "\u30cf"
+    },
+    {
+      "Romanized": "hi",
+      "Kana": "\u30d2"
+    },
+    {
+      "Romanized": "fu",
+      "Kana": "\u30d5"
+    },
+    {
+      "Romanized": "he",
+      "Kana": "\u30d8"
+    },
+    {
+      "Romanized": "ho",
+      "Kana": "\u30db"
+    },
+    {
+      "Romanized": "ma",
+      "Kana": "\u30de"
+    },
+    {
+      "Romanized": "mi",
+      "Kana": "\u30df"
+    },
+    {
+      "Romanized": "mu",
+      "Kana": "\u30e0"
+    },
+    {
+      "Romanized": "me",
+      "Kana": "\u30e1"
+    },
+    {
+      "Romanized": "mo",
+      "Kana": "\u30e2"
+    },
+    {
+      "Romanized": "ya",
+      "Kana": "\u30e4"
+    },
+    {
+      "Romanized": "yu",
+      "Kana": "\u30e6"
+    },
+    {
+      "Romanized": "yo",
+      "Kana": "\u30e8"
+    },
+    {
+      "Romanized": "ra",
+      "Kana": "\u30e9"
+    },
+    {
+      "Romanized": "ri",
+      "Kana": "\u30ea"
+    },
+    {
+      "Romanized": "ru",
+      "Kana": "\u30eb"
+    },
+    {
+      "Romanized": "re",
+      "Kana": "\u30ec"
+    },
+    {
+      "Romanized": "ro",
+      "Kana": "\u30ed"
+    },
+    {
+      "Romanized": "wa",
+      "Kana": "\u30ef"
+    },
+    {
+      "Romanized": "wi",
+      "Kana": "\u30f0"
+    },
+    {
+      "Romanized": "we",
+      "Kana": "\u30f1"
+    },
+    {
+      "Romanized": "wo",
+      "Kana": "\u30f2"
+    },
+    {
+      "Romanized": "n",
+      "Kana": "\u30f3"
+    },
+    {
+      "Romanized": "ga",
+      "Kana": "\u30ac"
+    },
+    {
+      "Romanized": "gi",
+      "Kana": "\u30ae"
+    },
+    {
+      "Romanized": "gu",
+      "Kana": "\u30b0"
+    },
+    {
+      "Romanized": "ge",
+      "Kana": "\u30b2"
+    },
+    {
+      "Romanized": "go",
+      "Kana": "\u30b4"
+    },
+    {
+      "Romanized": "za",
+      "Kana": "\u30b6"
+    },
+    {
+      "Romanized": "ji",
+      "Kana": "\u30b8"
+    },
+    {
+      "Romanized": "zu",
+      "Kana": "\u30ba"
+    },
+    {
+      "Romanized": "ze",
+      "Kana": "\u30bc"
+    },
+    {
+      "Romanized": "zo",
+      "Kana": "\u30be"
+    },
+    {
+      "Romanized": "da",
+      "Kana": "\u30c0"
+    },
+    {
+      "Romanized": "ji",
+      "Kana": "\u30c2"
+    },
+    {
+      "Romanized": "zu",
+      "Kana": "\u30c5"
+    },
+    {
+      "Romanized": "de",
+      "Kana": "\u30c7"
+    },
+    {
+      "Romanized": "do",
+      "Kana": "\u30c9"
+    },
+    {
+      "Romanized": "ba",
+      "Kana": "\u30d0"
+    },
+    {
+      "Romanized": "bi",
+      "Kana": "\u30d3"
+    },
+    {
+      "Romanized": "bu",
+      "Kana": "\u30d6"
+    },
+    {
+      "Romanized": "be",
+      "Kana": "\u30d9"
+    },
+    {
+      "Romanized": "bo",
+      "Kana": "\u30dc"
+    },
+    {
+      "Romanized": "pa",
+      "Kana": "\u30d1"
+    },
+    {
+      "Romanized": "pi",
+      "Kana": "\u30d4"
+    },
+    {
+      "Romanized": "pu",
+      "Kana": "\u30d7"
+    },
+    {
+      "Romanized": "pe",
+      "Kana": "\u30da"
+    },
+    {
+      "Romanized": "po",
+      "Kana": "\u30dd"
+    },
+    {
+      "Romanized": "kya",
+      "Kana": "\u30ad\u30e3"
+    },
+    {
+      "Romanized": "kyu",
+      "Kana": "\u30ad\u30e5"
+    },
+    {
+      "Romanized": "kyo",
+      "Kana": "\u30ad\u30e7"
+    },
+    {
+      "Romanized": "sha",
+      "Kana": "\u30b7\u30e3"
+    },
+    {
+      "Romanized": "shu",
+      "Kana": "\u30b7\u30e5"
+    },
+    {
+      "Romanized": "sho",
+      "Kana": "\u30b7\u30e7"
+    },
+    {
+      "Romanized": "cha",
+      "Kana": "\u30c1\u30e3"
+    },
+    {
+      "Romanized": "chu",
+      "Kana": "\u30c1\u30e5"
+    },
+    {
+      "Romanized": "cho",
+      "Kana": "\u30c1\u30e7"
+    },
+    {
+      "Romanized": "nya",
+      "Kana": "\u30cb\u30e3"
+    },
+    {
+      "Romanized": "nyu",
+      "Kana": "\u30cb\u30e5"
+    },
+    {
+      "Romanized": "nyo",
+      "Kana": "\u30cb\u30e7"
+    },
+    {
+      "Romanized": "hya",
+      "Kana": "\u30d2\u30e3"
+    },
+    {
+      "Romanized": "hyu",
+      "Kana": "\u30d2\u30e5"
+    },
+    {
+      "Romanized": "hyo",
+      "Kana": "\u30d2\u30e7"
+    },
+    {
+      "Romanized": "mya",
+      "Kana": "\u30df\u30e3"
+    },
+    {
+      "Romanized": "myu",
+      "Kana": "\u30df\u30e5"
+    },
+    {
+      "Romanized": "myo",
+      "Kana": "\u30df\u30e7"
+    },
+    {
+      "Romanized": "rya",
+      "Kana": "\u30ea\u30e3"
+    },
+    {
+      "Romanized": "ryu",
+      "Kana": "\u30ea\u30e5"
+    },
+    {
+      "Romanized": "ryo",
+      "Kana": "\u30ea\u30e7"
+    },
+    {
+      "Romanized": "gya",
+      "Kana": "\u30ae\u30e3"
+    },
+    {
+      "Romanized": "gyu",
+      "Kana": "\u30ae\u30e5"
+    },
+    {
+      "Romanized": "gyo",
+      "Kana": "\u30ae\u30e7"
+    },
+    {
+      "Romanized": "ja",
+      "Kana": "\u30b8\u30e3"
+    },
+    {
+      "Romanized": "ju",
+      "Kana": "\u30b8\u30e5"
+    },
+    {
+      "Romanized": "jo",
+      "Kana": "\u30b8\u30e7"
+    },
+    {
+      "Romanized": "ja",
+      "Kana": "\u30c2\u30e3"
+    },
+    {
+      "Romanized": "ju",
+      "Kana": "\u30c2\u30e5"
+    },
+    {
+      "Romanized": "jo",
+      "Kana": "\u30c2\u30e7"
+    },
+    {
+      "Romanized": "bya",
+      "Kana": "\u30d3\u30e3"
+    },
+    {
+      "Romanized": "byu",
+      "Kana": "\u30d3\u30e5"
+    },
+    {
+      "Romanized": "byo",
+      "Kana": "\u30d3\u30e7"
+    },
+    {
+      "Romanized": "pya",
+      "Kana": "\u30d4\u30e3"
+    },
+    {
+      "Romanized": "pyu",
+      "Kana": "\u30d4\u30e5"
+    },
+    {
+      "Romanized": "pyo",
+      "Kana": "\u30d4\u30e7"
+    }
+  ]
+}
